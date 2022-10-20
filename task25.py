@@ -4,5 +4,5 @@ class Utilities:
     def print_name(location):
         return location
 
-print(Utilities.print_name("ibadan"))
+print(Utilities.print_name("Lagos"))
 
